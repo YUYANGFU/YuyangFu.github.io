@@ -7,7 +7,7 @@
 
 #### Papers
 
-- Hongcan Sun*, **Yuyang Fu***, Huaiwen Zhang, Yeqi Sun, Xinyi Liao, Kaitian Zhao, Shichao Huang, Yao Ju, Shuhong Xu, and Chunlei Wang. "Selective Fe3+ Detection with Carbon Dots Synthesized by Naturally Renewable, Eco-Friendly, and Ultralow-Cost Green Leaves."
+- Hongcan Sun*, **Yuyang Fu***, Huaiwen Zhang*, Yeqi Sun*, Xinyi Liao*, Kaitian Zhao, Shichao Huang, Yao Ju, Shuhong Xu, and Chunlei Wang. "Selective Fe3+ Detection with Carbon Dots Synthesized by Naturally Renewable, Eco-Friendly, and Ultralow-Cost Green Leaves."
   - Status: **Under Review**
   - *(* denotes equal contribution )*
 
