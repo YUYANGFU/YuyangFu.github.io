@@ -16,12 +16,12 @@
 #### Projects & Preprints
 
 - **AgentCPM-MCP: A Multi-Tool Large Language Model Agent**
-  - **Role:** Core Contributor
-  - (Work at THUNLP Lab. Codebase and technical report in preparation, expected Nov. 2025)
+    - **Role:** Core Contributor
+    - (Work at THUNLP Lab. Codebase and technical report in preparation, expected Nov. 2025)
 
 - **Evaluating and Optimizing Machine Unlearning for LLM Agent Safety**
-  - **Role:** Undergraduate Researcher
-  - (Work at Cybersecurity Policy & Research Institute, UCI. Focus on replicating and optimizing unlearning frameworks like SimNPO for safe agent behavior.)
+    - **Role:** Undergraduate Researcher
+    - (Work at Cybersecurity Policy & Research Institute, UCI. Focus on replicating and optimizing unlearning frameworks like SimNPO for safe agent behavior.)
 
 - **RAG-Enhanced LLM Agent with MCP-based Tool Integration**
-  - (Personal Project)
+    - (Personal Project)
