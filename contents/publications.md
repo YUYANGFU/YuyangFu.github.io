@@ -1,7 +1,7 @@
 #### Patents
 
 - **Carbon Dots for Specific Detection of Fe3+ and Their Preparation Method**
-  - **Status: Chinese Patent Granted** (Application No. 202411293141.7)
+  - **Status: Chinese Patent Granted** (Publication No. CN119144325B)
 
 ---
 
