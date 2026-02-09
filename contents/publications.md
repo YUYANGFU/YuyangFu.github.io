@@ -7,9 +7,14 @@
 
 #### Papers
 
+- Haotian Chen, Xin Cong, Shengda Fan, **Yuyang Fu**, et al. (AgentCPM Team). "AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents." *arXiv preprint [arXiv:2602.06485](https://arxiv.org/abs/2602.06485)*. 2026.
+  - Status: **Published on arXiv**
+  - Links: [[PDF]](https://arxiv.org/pdf/2602.06485) [[Code]](https://github.com/OpenBMB/AgentCPM) [[Model]](https://huggingface.co/openbmb/AgentCPM-Explore)
+
 - Hongcan Sun\*, **Yuyang Fu**\*, Huaiwen Zhang\*, Yeqi Sun\*, Xinyi Liao\*, Kaitian Zhao, Shichao Huang, Yao Ju, Shuhong Xu, and Chunlei Wang. "Selective Fe3+ Detection with Carbon Dots Synthesized by Naturally Renewable, Eco-Friendly, and Ultralow-Cost Green Leaves."
   - Status: **Under Review**
   - *(* denotes equal contribution )*
+
 
 ---
 
