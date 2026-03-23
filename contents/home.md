@@ -2,21 +2,23 @@
 
 [![YUYANGFU](https://img.shields.io/badge/YUYANGFU-github-blue?logo=github)](https://github.com/YUYANGFU)
 
-I am a senior undergraduate student from **Southeast University (SEU)**, currently a **Visiting Student** at the **University of California, Irvine (UCI)**. This is part of the 3+2 Joint Program, where I am completing my B.S. in Electronic Science & Technology (from SEU) while taking graduate-level courses at UCI.
+I am a senior undergraduate student from **Southeast University (SEU)**, currently a **Visiting Student** at the **University of California, Irvine (UCI)** as part of the 3+2 Joint Program. I will be joining **Carnegie Mellon University (CMU)** as an **MS student in Electrical and Computer Engineering** starting Spring 2027.
 
-My primary research interest lies in **Large Language Models (LLMs)**. I am fortunate to be a research intern at the **THUNLP Lab, Tsinghua University**, where I contribute to the development of [**AgentCPM-Explore**](https://github.com/OpenBMB/AgentCPM), an end-to-end infrastructure for LLM agents. Concurrently, I am beginning new research at UCI exploring **LLM machine unlearning**.
+My primary research interest lies in **Large Language Models (LLMs)**. I am fortunate to be a research intern at the **THUNLP Lab, Tsinghua University**, where I contribute to the development of [**AgentCPM-Explore**](https://github.com/OpenBMB/AgentCPM), an end-to-end infrastructure for LLM agents. Concurrently, I am conducting research at UCI exploring **LLM machine unlearning**.
 
-I am actively seeking Ph.D. opportunities to continue this research, targeting admission for Fall 2026 and Fall 2027.
+I am actively looking for **internship opportunities** in software engineering and AI/ML. Feel free to reach out!
 
 #### Contact
 
 Email: yuyanf6[at]uci.edu
 
 #### Education
-- **University of California, Irvine** (09/2025 - Present)
-  - Visiting Student (GPA: 4.0/4.0)
+- **Carnegie Mellon University** (Spring 2027 - )
+  - M.S. in Electrical and Computer Engineering (ECE)
+- **University of California, Irvine** (09/2025 - 06/2026 (Expected))
+  - Visiting Student, Computer Science, 3+2 Joint Program (GPA: 4.0/4.0)
 - **Southeast University** (09/2022 - 06/2026 (Expected))
-  - B.S. in Electronic Science & Technology (GPA: 3.88/4.0)
+  - B.S. in Electronic Science & Technology (GPA: 3.88/4.0, Top 5%)
 - **Georgia Institute of Technology** (Summer 2024)
   - Summer Exchange Program (GPA: 4.0/4.0)
 
