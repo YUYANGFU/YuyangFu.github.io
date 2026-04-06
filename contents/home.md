@@ -2,7 +2,7 @@
 
 [![YUYANGFU](https://img.shields.io/badge/YUYANGFU-github-blue?logo=github)](https://github.com/YUYANGFU)
 
-I am a senior undergraduate student from **Southeast University (SEU)**, currently a **Visiting Student** at the **University of California, Irvine (UCI)** as part of the 3+2 Joint Program. I will be joining **Carnegie Mellon University (CMU)** as an **MS student in Electrical and Computer Engineering** starting Spring 2027.
+I am a senior undergraduate student from **Southeast University (SEU)**, currently a **Visiting Student** at the **University of California, Irvine (UCI)** as part of the 3+2 Joint Program.
 
 My primary research interest lies in **Large Language Models (LLMs)**. I am fortunate to be a research intern at the **THUNLP Lab, Tsinghua University**, where I contribute to the development of [**AgentCPM-Explore**](https://github.com/OpenBMB/AgentCPM), an end-to-end infrastructure for LLM agents. Concurrently, I am conducting research at UCI exploring **LLM machine unlearning**.
 
@@ -13,8 +13,6 @@ I am actively looking for **internship opportunities** in software engineering a
 Email: yuyanf6[at]uci.edu
 
 #### Education
-- **Carnegie Mellon University** (Spring 2027 - )
-  - M.S. in Electrical and Computer Engineering (ECE)
 - **University of California, Irvine** (09/2025 - 06/2026 (Expected))
   - Visiting Student, Computer Science, 3+2 Joint Program (GPA: 4.0/4.0)
 - **Southeast University** (09/2022 - 06/2026 (Expected))
