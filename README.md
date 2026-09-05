@@ -1,69 +1,37 @@
+# Yuyang Fu's personal website
 
+A static personal website for Summer 2027 AI/ML and software engineering internship recruiting, published with GitHub Pages at https://yuyangfu.github.io/.
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+The site uses the existing Bootstrap theme, Markdown content, and YAML configuration. No package installation or build step is needed.
 
-# A simple Github Pages template for personal academic websites.
+## Content
+
+The page order is About → Education → Industry Experience → Publications → Research Experience → Awards.
+
+- `contents/home.md`: introduction and internship interests.
+- `contents/education.md`: education, with Georgia Tech MS CS first.
+- `contents/experience.md`: Alibaba Cloud internship projects.
+- `contents/publications.md`: AI papers, followed by earlier research and patents.
+- `contents/research.md`: AgentCPM-Explore, AMULET, and the personal RAG/MCP project.
+- `contents/awards.md`: awards.
+- `contents/config.yml`: site title, name, and copyright.
+
+`index.html` defines the navigation and section containers. `static/js/scripts.js` loads the content. `static/css/main.css` extends the original theme with responsive styling.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
 
+Serve this directory over HTTP so the browser can load the Markdown and YAML files:
 
-## Introduction
-
-This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
-
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
-
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
-
-:milky_way: Demo: https://senli1073.github.io/
-
-
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
-
-
-### 2. Edit page content
-
-(1) Go to the folder where you want to store your project, and clone the new repository:
-```
-git clone https://github.com/<username>/<username>.github.io.git
-```
-The directory structure is as follows:
-
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
+```powershell
+python -m http.server 8765 --bind 127.0.0.1
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+Open http://127.0.0.1:8765/ and check desktop and mobile layouts, section links, and the GitHub link before publishing.
 
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+## Contact
 
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+The introduction includes one personal GitHub link and the plain-text email `fuyuyang20043 [at] gmail.com`. The email is not a `mailto:` link, and the website does not host or link to a resume PDF. Local resume files are maintained separately from the site.
 
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
+## Credits
 
-
-### 3. Enjoy
-
-Fire up a browser and go to `https://<username>.github.io`
-
-
-
-## License
-
-Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
+Based on the [Sen Li academic website template](https://github.com/senli1073/senli1073.github.io). The original template's MIT license is retained in `LICENSE`.
